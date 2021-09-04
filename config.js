@@ -1,4 +1,4 @@
 module.exports = {
-    USER: 'admin@stl-int.co.uk',
-    PASS: 'PASSWORD_FOR_EMAIL'
+    USER: 'ruben.heyse@icloud.com',
+    PASS: 'XVFk7&z^t94o)'
 }
